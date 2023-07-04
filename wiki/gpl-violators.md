@@ -3,7 +3,7 @@ title: "GPL Violations"
 date: 2022-07-03
 description: "Some notes on GPL violations I've encountered."
 tags: gpl, license, foss, legal
-importance: 7
+importance: 5
 abstract: "Leave empty if you don't want to feature an abstract. "
 ---
 
