@@ -1,19 +1,15 @@
 ---
-title: "Example navigation guide"
-date: 2022-01-01
-description: "A relevant description (Used for SEO and search)"
-tags: tag1, tag2, tag3, these are used for search
-importance: 5
-abstract: "Leave empty if you don't want to feature an abstract. "
+layout: post
+date: 2022-06-15
+title: "Contents"
+tags: meta, navigation, index, navigation guide, contents, table of contents
+description: "A guide to navigate this personal wiki, linking the articles by type or category."
+language: English
+importance: 11
 ---
 
-Example article in wiki. Edit this in markdown.
+Welcome to my [digital garden, a personal wiki](/wiki/).
 
-## Title
-### Smaller title
+This is a space to collect information for myself and others. It might be complete wiki guides on a particular subject or simple notes in the style of a [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten).
 
-
-**bold**, *italic*, [link](/somewhere)
-
-- list item 1
-- list item 2
+However it's rather new and there's not much here yet, still - make yourself at home.
